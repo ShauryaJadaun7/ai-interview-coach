@@ -16,8 +16,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("🎯 AI Interview Coach")
-st.markdown("**Resilient • 100% Free (Groq) • MetricAI-ready** | Built for BlaiseLogic Internship")
+st.title(" AI Interview Coach")
 
 # ====================== SESSION STATE ======================
 if "execution_id" not in st.session_state:
@@ -43,7 +42,7 @@ logger = MetricAILogger()
 
 # ====================== SIDEBAR - METRICAI DASHBOARD ======================
 with st.sidebar:
-    st.header("📊 MetricAI Live Dashboard")
+    st.header(" Live Dashboard")
     st.markdown(f"**Execution ID:** `{st.session_state.execution_id[:8]}...`")
     
     log_path = Path("logs/runs.jsonl")
