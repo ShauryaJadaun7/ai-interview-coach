@@ -70,7 +70,7 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
    ```bash
    pip install -r requirements.txt
 
-## Add your free API keys in .env:env
+## Add your free API keys in .env:
 
 - **GROQ_API_KEY=gsk_...**
 - **TAVILY_API_KEY=tvly-...**
