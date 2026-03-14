@@ -33,16 +33,16 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
 ##  Screenshots
 
 **1. Upload Resume & Generate Questions**  
-![Upload & Prep](screenshots/1-prep.png)
+![Upload & Prep](./screenshots/prep.png)
 
 **2. Live Mock Interview**  
-![Live Interview](screenshots/2-interview.png)
+![Live Interview](./screenshots/interview.png)
 
 **3. Scoring & Improvement Plan**  
-![Scoring Report](screenshots/3-scoring.png)
+![Scoring Report](./screenshots/scoring.png)
 
 **4. MetricAI Live Dashboard & Logs**  
-![MetricAI Logs](screenshots/4-logs.png)
+![MetricAI Logs](./screenshots/logs.png)
 
 ---
 
