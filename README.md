@@ -79,7 +79,7 @@ TAVILY_API_KEY=tvly-...
 streamlit run app.py
 
 ## Project Structure
-ai-interview-coach/
+'''ai-interview-coach/
 ├── app.py
 ├── langgraph_agent.py
 ├── model_router.py
@@ -96,4 +96,4 @@ ai-interview-coach/
 │   └── 4-logs.png
 ├── nodes/
 ├── utils/
-└── logs/runs.json
+└── logs/runs.json'''
