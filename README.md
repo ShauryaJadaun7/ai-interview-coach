@@ -72,8 +72,8 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
 
 ## Add your free API keys in .env:env
 
-GROQ_API_KEY=gsk_...
-TAVILY_API_KEY=tvly-...
+- **GROQ_API_KEY=gsk_...**
+- **TAVILY_API_KEY=tvly-...**
 
 ## Run the app
 streamlit run app.py
