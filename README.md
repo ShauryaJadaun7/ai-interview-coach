@@ -10,7 +10,6 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
 
 ##  Architecture
 
-![Architecture Diagram](Architecture.pdf)
 
 **LLM Router**: Groq (Llama-3.3-70B) 
 **Core Framework**: LangGraph (StateGraph + MemorySaver)  
@@ -20,7 +19,7 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
 
 ##  Key Features
 
-- Intelligent 3-model LLM router with automatic fallback
+- Intelligent 2-model LLM router with automatic fallback
 - Real-time company research using Tavily
 - Structured output (Pydantic) for 100% reliable JSON
 - Live multi-turn mock interview
