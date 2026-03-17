@@ -47,7 +47,7 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
 ---
 
 ## Demo video 
-
+![Video](./screenshots/0cf74566-2f0b-4ea4-b841-7f0a588c0fb3.mp4)
 
 
 ## Tech Stack
