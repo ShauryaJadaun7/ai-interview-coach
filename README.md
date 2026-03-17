@@ -46,12 +46,8 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
 
 ---
 
-## Demo Video
 
-**Watch the full demo (3 minutes)**:  
-[🔗 Paste your Loom / YouTube link here]
 
----
 
 ## Tech Stack
 
