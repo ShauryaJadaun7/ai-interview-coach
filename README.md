@@ -74,32 +74,33 @@ Helps Indian freshers and early-career candidates  prepare for real job intervie
 ## Run the app
 streamlit run app.py
 
-### Project Structure
+## Project Structure
+```text
 ai-interview-coach/
-|-- app.py
-|-- langgraph_agent.py
-|-- model_router.py
-|-- config.py
-|-- prompts.py
-|-- logger.py
-|-- README.md
-|-- requirements.txt
-|-- .gitignore
-|-- .env.example
-|-- Arch.pdf
-|-- screenshots/
-|   |-- 1-prep.png
-|   |-- 2-interview.png
-|   |-- 3-scoring.png
-|   `-- 4-logs.png
-|-- nodes/
-|   |-- __init__.py
-|   |-- research_node.py
-|   |-- question_gen_node.py
-|   |-- interview_node.py
-|   `-- scoring_node.py
-|-- utils/
-|   |-- __init__.py
-|   |-- resume_parser.py
-|   `-- cost_calculator.py
-`-- logs/
+├── app.py
+├── langgraph_agent.py
+├── model_router.py
+├── config.py
+├── prompts.py
+├── logger.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── .env.example
+├── Arch.pdf
+├── screenshots/
+│   ├── 1-prep.png
+│   ├── 2-interview.png
+│   ├── 3-scoring.png
+│   └── 4-logs.png
+├── nodes/
+│   ├── __init__.py
+│   ├── research_node.py
+│   ├── question_gen_node.py
+│   ├── interview_node.py
+│   └── scoring_node.py
+├── utils/
+│   ├── __init__.py
+│   ├── resume_parser.py
+│   └── cost_calculator.py
+└── logs/
