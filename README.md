@@ -76,31 +76,30 @@ streamlit run app.py
 
 ### Project Structure
 ai-interview-coach/
-├── app.py< br / >
-├── langgraph_agent.py< br / >
-├── model_router.py< br / >
-├── config.py< br / >
-├── prompts.py< br / >
-├── logger.py< br / >
-├── README.md< br / >
-├── requirements.txt< br / >
-├── .gitignore< br / >
-├── .env.example< br / >
-├── Arch.pdf< br / >
-├── screenshots/< br / >
-│   ├── 1-prep.png< br / >
-│   ├── 2-interview.png< br / >
-│   ├── 3-scoring.png< br / >
-│   └── 4-logs.png< br / >
-├── nodes/< br / >
-│   ├── __init__.py< br / >
-│   ├── research_node.py< br / >
-│   ├── question_gen_node.py< br / >
-│   ├── interview_node.py< br / >
-│   └── scoring_node.py< br / >
-├── utils/< br / >
-│   ├── __init__.py< br / >
-│   ├── resume_parser.py< br / >
-│   └── cost_calculator.py< br / >
-└── logs/< br / >
-
+|-- app.py
+|-- langgraph_agent.py
+|-- model_router.py
+|-- config.py
+|-- prompts.py
+|-- logger.py
+|-- README.md
+|-- requirements.txt
+|-- .gitignore
+|-- .env.example
+|-- Arch.pdf
+|-- screenshots/
+|   |-- 1-prep.png
+|   |-- 2-interview.png
+|   |-- 3-scoring.png
+|   `-- 4-logs.png
+|-- nodes/
+|   |-- __init__.py
+|   |-- research_node.py
+|   |-- question_gen_node.py
+|   |-- interview_node.py
+|   `-- scoring_node.py
+|-- utils/
+|   |-- __init__.py
+|   |-- resume_parser.py
+|   `-- cost_calculator.py
+`-- logs/
